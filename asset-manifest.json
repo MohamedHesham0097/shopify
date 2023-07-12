@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shopify/static/css/main.ac5dfe8f.css",
+    "main.js": "/shopify/static/js/main.cc2822bf.js",
+    "static/media/bg-01.jpg": "/shopify/static/media/bg-01.c591271ec5acde05c3f9.jpg",
+    "static/media/hero.png": "/shopify/static/media/hero.ba68e815c53c8c246c87.png",
+    "static/media/product-08-a.jpg": "/shopify/static/media/product-08-a.fd3e9a38f7b4c4b1c73b.jpg",
+    "static/media/collection-01.jpg": "/shopify/static/media/collection-01.618b78d0bef35822073b.jpg",
+    "static/media/cat-women.jpg": "/shopify/static/media/cat-women.3d8a69437b290e2e9c4b.jpg",
+    "static/media/product-09-a.jpg": "/shopify/static/media/product-09-a.c0802bf68503c5abad0e.jpg",
+    "static/media/product-10-a.jpg": "/shopify/static/media/product-10-a.761d3acef745b60e21ed.jpg",
+    "static/media/product-01-a.jpg": "/shopify/static/media/product-01-a.14e3e3ccd937e3a339bb.jpg",
+    "static/media/product-06-a.jpg": "/shopify/static/media/product-06-a.5168ba7b2177cb080595.jpg",
+    "static/media/collection-03.jpg": "/shopify/static/media/collection-03.4d7e1a3a363d88a2c8a1.jpg",
+    "static/media/product-03-a.jpg": "/shopify/static/media/product-03-a.c252f1be9b9c2898244d.jpg",
+    "static/media/collection-02.jpg": "/shopify/static/media/collection-02.fdcd78e7f70643f6e071.jpg",
+    "static/media/product-05-a.jpg": "/shopify/static/media/product-05-a.4e20e25ea9c5586cbe3a.jpg",
+    "static/media/product-01-c.jpg": "/shopify/static/media/product-01-c.e6a159929b1b2974cd8c.jpg",
+    "static/media/product-001-b.jpg": "/shopify/static/media/product-001-b.de225ed019136d497682.jpg",
+    "static/media/product-01-d.jpg": "/shopify/static/media/product-01-d.7eb219abcd656e1aaae6.jpg",
+    "index.html": "/shopify/index.html",
+    "main.ac5dfe8f.css.map": "/shopify/static/css/main.ac5dfe8f.css.map",
+    "main.cc2822bf.js.map": "/shopify/static/js/main.cc2822bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5dfe8f.css",
+    "static/js/main.cc2822bf.js"
+  ]
+}
